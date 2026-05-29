@@ -37,7 +37,7 @@ $(TWEAK_NAME)_INJECT_DYLIBS = \
     Tweaks/uYou/Library/MobileSubstrate/DynamicLibraries/uYou.dylib \
     $(THEOS_OBJ_DIR)/libFLEX.dylib \
     $(THEOS_OBJ_DIR)/iSponsorBlock.dylib \
-    $(THEOS_OBJ_DIR)/YTABConfig.dylib \
+    #$(THEOS_OBJ_DIR)/YTABConfig.dylib \
     $(THEOS_OBJ_DIR)/YTIcons.dylib \
     $(THEOS_OBJ_DIR)/YouGroupSettings.dylib \
     $(THEOS_OBJ_DIR)/YouLoop.dylib \
